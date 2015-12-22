@@ -1,2 +1,0 @@
-# cgtnow
-Chris is awesome
